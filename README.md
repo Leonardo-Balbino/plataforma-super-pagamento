@@ -11,6 +11,7 @@ Desenvolvido por **Leonardo Vinicius Balbino**.
 - Axios (Services Pattern)
 - Cypress (Testes E2E)
 - Vitest (Testes unitários)
+- Dashboard Responsivo Vue.js 3 (Pixel Perfect) com Testes Unitários (Vitest) e E2E.
 
 ## 📁 Estrutura do Projeto
 
