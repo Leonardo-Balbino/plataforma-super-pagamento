@@ -1,4 +1,4 @@
-# Teste Técnico - Super Pagamentos
+# Plataforma - Super Pagamentos
 
 Desenvolvido por **Leonardo Vinicius Balbino**.
 
