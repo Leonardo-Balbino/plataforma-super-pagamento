@@ -9,7 +9,6 @@ Desenvolvido por **Leonardo Vinicius Balbino**.
 - Vue Router (Navegação)
 - Pinia (Gerenciamento de estado)
 - Axios (Services Pattern)
-- Cypress (Testes E2E)
 - Vitest (Testes unitários)
 - Dashboard Responsivo Vue.js 3 (Pixel Perfect) com Testes Unitários (Vitest) e E2E.
 
@@ -58,9 +57,6 @@ http://localhost:5173
 npm run test:unit
 ```
 
-```bash
-npm run test:e2e
-```
 
 ## 🎨 Características
 
